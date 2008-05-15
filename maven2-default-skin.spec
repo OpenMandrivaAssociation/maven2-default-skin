@@ -52,6 +52,9 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires:  jpackage-utils >= 0:1.7.1
 BuildRequires:  java-rpmbuild
 BuildRequires:  maven2 >= 0:2.0.4
+BuildRequires:  maven2-plugin-install
+BuildRequires:  maven2-plugin-resources
+BuildRequires:  maven-surefire-plugin
 BuildRequires:  saxon
 BuildRequires:  saxon-scripts
 BuildRequires:  java >= 0:1.4.2
