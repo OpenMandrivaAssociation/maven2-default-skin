@@ -34,7 +34,7 @@
 Summary:        A Maven site skin
 Name:           maven2-default-skin
 Version:        1.0
-Release:        %mkrel 1.0.1
+Release:        %mkrel 2.0.1
 Epoch:		0
 Group:          Development/Java
 License:        Apache 2.0 License
