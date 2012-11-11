@@ -1,0 +1,12 @@
+--- pom.xml.sav	2006-10-25 16:00:47.000000000 +0200
++++ pom.xml	2006-10-25 16:32:49.000000000 +0200
+@@ -5,7 +5,8 @@
+     <artifactId>maven-skins</artifactId>
+     <version>2</version>
+   </parent>
+-  <artifactId>maven-default-skin</artifactId>
++  <groupId>JPP/maven2</groupId>
++  <artifactId>default-skin</artifactId>
+   <version>1.0</version>
+   <name>Maven Default Skin</name>
+   <description>Maven Default Skin</description>
