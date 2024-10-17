@@ -38,7 +38,7 @@ Release:        %mkrel 2.0.2
 Epoch:		0
 Group:          Development/Java
 License:        Apache 2.0 License
-URL:            http://maven.apache.org
+URL:            https://maven.apache.org
 BuildArch:      noarch
 Source0:        %{bname}-%{version}.tar.gz
 # svn export http://svn.apache.org/repos/asf/maven/skins/tags/maven-default-skin-1.0
